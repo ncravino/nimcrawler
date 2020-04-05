@@ -3,7 +3,7 @@
 version       = "0.1.0"
 author        = "ncravino"
 description   = "Nim Crawler"
-license       = "BSD-3-Clause"
+license       = "BSD-2-Clause"
 srcDir        = "src"
 bin           = @["nimCrawler"]
 
